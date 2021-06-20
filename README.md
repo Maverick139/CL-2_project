@@ -1,1 +1,1 @@
-# Hindi Summarizer
+# Hindi Text Summarizer
