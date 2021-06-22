@@ -1,0 +1,1846 @@
+हर	हर	QF		adj	any	any		any
+किसी	किसी	PRP		unk				
+के	का	PSP	का	psp	m	sg		o
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+सबसे	सबसे	INTF		adj	any	any		any
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बिना	बिन	NEG	या	v	m	sg	any	
+कोई	कोई	PRP	0	pn	any	sg	3	d
+सुखी	सुखी	JJ	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+जी	जी	VM	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+वह	वह	DEM	0	pn	any	sg	3	d
+सब	सब	PRP		adj	any	any		any
+कुछ	कुछ	QF		adj	any	any		d
+है	है	VM	है	v	any	sg	2	
+जो	जो	PRP		avy				
+हम	हम	PRP		unk				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सही	सही	JJ		adv				
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	PRP	0	pn	any	sg	3	d
+हमें	हमें	PRP		unk				
+सही	सही	JJ		adv				
+रास्ते	रास्ता	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जीवन	जीवन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सभी	सभी	QF	0	n	m	sg	3	d
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+अत्यधिक	अत्यधिक	INTF		adj	any	any		any
+मूल्यवान	मूल्यवान	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+हर	हर	QF		adj	any	any		any
+समय	समय	NN	0	n	m	sg	3	d
+इसका	इसका	PRP		pn	m	sg	3	d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+चाहे	चाहे	CC:?		adv				
+वो	वो	PRP		unk				
+स्कूल	स्कूल	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+घर	घर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+कार्यालय	कार्यालय	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+संस्थान	संस्थान	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+फैक्टरी	फैक्टरी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+खेल	खेल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मैदान	मैदान	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+युद्ध	युद्ध	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मैदान	मैदान	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+दूसरी	दूसरी	QO		unk				
+जगह	जगह	NN		adv				
+हों	ह	VM	0	n	m	pl	3	o
+.	.	SYM		punc				
+</s>
+<s>
+ये	यह	DEM	0	pn	any	pl	3	d
+खुशहाल	खुशहाल	NN		adj	any	any		any
+और	और	CC		adv				
+शांतिपूर्णं	शांतिपूर्णं	JJ		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+जीने	जी	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+बड़ी	बड़ी	JJ		punc				
+जरुरत	जरुरत	NN		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आज	आज	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+आधुनिक	आधुनिक	JJ		adj	any	any		any
+समय	समय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+बहुत	बहुत	QF		adj	any	any		any
+ही	ही	RP		adv				
+आवश्यक	आवश्यक	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+क्योंकि	क्योंकि	CC		adv				
+इस	इस	DEM		pn	any	sg	3	o
+व्यस्तता	व्यस्तता	NN		unk				
+भरे	भर	VM	एं	v	any	sg	2	
+समय	समय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यदि	यदि	CC		avy				
+हम	हम	PRP		unk				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+भरे	भर	VM	एं	v	any	sg	2	
+दिनचर्या	दिनचर्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+ना	ना	NEG		avy				
+करें	कर	VM	एं	v	any	pl	1	
+तो	तो	CC		avy				
+हमारा	हमारा	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+अस्त-व्यस्त	अस्त-व्यस्त	JJ		unk				
+हो	हो	VM	0	v	any	any	any	
+जायेगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+शब्दों	शब्द	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+मिलकर	मिल	VM	कर	v	any	any	any	
+बना	बना	VAUX	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+-	-	SYM		punc				
+अनु	अनु	RDP		adv				
+और	और	CC		adv				
+शासन	शासन	NN	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+अनु	अनु	NNP		adv				
+का	का	PSP	का	psp	m	sg		d
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+पालन	पालन	NN		adj	any	any		any
+और	और	CC		adv				
+शासन	शासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मतलब	मतलब	NN	0	n	m	sg	3	d
+नियम	नियम	NN	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+हमारे	हमारे	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+बहुत	बहुत	QF		adj	any	any		any
+महत्व	महत्व	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+यह	यह	PRP	0	pn	any	sg	3	d
+हमें	हमें	PRP		unk				
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+सिखाता	सिखा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+सामाजिक	सामाजिक	JJ		adj	any	any		any
+प्राणी	प्राणी	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+जो	जो	PRP		avy				
+कि	कि	CC		avy				
+समाज	समाज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रहता	रह	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+उसमें	उसमें	PRP		unk				
+रहने	रह	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+हमारी	हमारी	PRP		unk				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सीढ़ी	सीढ़ी	XC		n	f	sg	3	d
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जिसके	जो	PRP	का	pn	m	pl	3	d
+सहारे	सहारा	NN	0	n	m	pl	3	d
+हम	हम	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+मंजिल	मंजिल	NN	0	n	f	sg	3	d
+हासिल	हासिल	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+-	-	SYM		punc				
+एक	एक	QC		adj	any	any		any
+वो	वो	PRP		unk				
+जो	जो	PRP		avy				
+हमें	हमें	PRP		unk				
+बाहरी	बाहरी	JJ		adj	f	any		any
+समाज	समाज	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मिलता	मिल	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+दूसरा	दूसरा	QO	0	n	m	sg	3	d
+वो	वो	PRP		unk				
+जो	जो	PRP		avy				
+हमारे	हमारे	PRP		unk				
+अंदर	अंदर	NST	0	n	m	sg	3	d
+खुद	खुद	PRP	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+उत्पन्न	उत्पन्न	JJ	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+कई	कई	QF		adj	any	any		d
+बार	बार	RP		adv				
+,	,	SYM		punc				
+हमें	हमें	PRP		unk				
+किसी	किसी	PRP		unk				
+प्रभावशाली	प्रभावशाली	JJ	0	n	f	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+स्व-अनुशासन	स्व-अनुशासन	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+आदतों	आदत	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+सुधार	सुधार	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिये	ले	PSP	या	v	m	pl	any	
+प्रेरणा	प्रेरणा	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जरुरत	जरुरत	NN		unk				
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बिना	बिन	NEG	या	v	m	sg	any	
+जीवन	जीवन	NN	0	n	m	sg	3	d
+निष्क्रिय	निष्क्रिय	JJ		adj	any	any		any
+और	और	CC		adv				
+बेकार	बेकार	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+क्योंकि	क्योंकि	CC		adv				
+योजना	योजना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+कुछ	कुछ	QF		adj	any	any		d
+भी	भी	RP		adv				
+नहीं	नहीं	NEG		adv				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अगर	अगर	CC		adv				
+हमें	हमें	PRP		unk				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+कार्य	कार्य	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+सही	सही	JJ		adv				
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+रणनीति	रणनीति	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लागू	लागू	JJ	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+हमें	हमें	PRP		unk				
+पहले	पहले	NST		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रहने	रह	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+चीजों	चीज	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+आसान	आसान	JJ	0	n	m	sg	3	d
+बनाता	बना	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+हमारे	हमारे	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+लाता	ला	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+हमें	हमें	PRP		unk				
+बहुत	बहुत	INTF		adj	any	any		any
+सारे	सारा	QF		adj	m	sg		o
+शानदार	शानदार	JJ		adj	any	any		any
+अवसर	अवसर	NN	0	n	m	sg	3	d
+देता	दे	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+आगे	आगा	NST	0	n	m	pl	3	d
+बढ़ने	बढ़ने	VM		v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+सही	सही	JJ		adv				
+तरीका	तरीका	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+नई	नई	JJ		adj	f	any		any
+चीजें	चीज	NN	0	n	f	pl	3	d
+सीखने	सीख	VM	ना	v	m	pl	any	
+,	,	SYM		punc				
+कम	कम	QF		adj	any	any		any
+समय	समय	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+भीतर	भीतर	NST		psp				
+अधिक	अधिक	QF		adv				
+अनुभव	अनुभव	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+,	,	SYM		punc				
+आदि	आदि	RP	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+जबकि	जबकि	CC		avy				
+,	,	SYM		punc				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कमी	कमी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बहुत	बहुत	QF		adj	any	any		any
+भ्रम	भ्रम	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+विकार	विकार	NN	0	n	m	sg	3	d
+पैदा	पैदा	JJ	0	n	m	sg	3	d
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासनहीनता	अनुशासनहीनता	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+शांति	शान्ति	NN	0	n	f	sg		d
+और	और	CC		adv				
+प्रगति	प्रगति	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+इसके	इसके	PRP		pn	m	pl	3	d
+बजाय	बजाय	PSP:?		adv				
+बहुत	बहुत	INTF		adj	any	any		any
+सारी	सारी	QF	0	n	f	sg	3	d
+समस्याएं	समस्या	NN	0	n	f	pl		d
+पैदा	पैदा	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+,	,	SYM		punc				
+आदेशों	आदेश	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+व्यवस्थित	व्यवस्थित	JJ	0	n	m	sg	3	d
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+व्यवहार	व्यवहार	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+दैनिक	दैनिक	JJ		adj	any	any		any
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+महत्व	महत्व	NN	0	n	m	sg	3	d
+देना	दे	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+वे	वह	PRP	0	pn	any	pl	3	d
+लोग	लोग	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+हैं	है	VM	है	v	any	pl	1	
+,	,	SYM		punc				
+उन्हें	उन्हें	PRP		unk				
+बहुत	बहुत	INTF		adj	any	any		any
+सारी	सारी	QF	0	n	f	sg	3	d
+समस्याओं	समस्या	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+सामना	सामना	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+पड़ता	पड़ता	NNP		unk				
+है	है	VM	है	v	any	sg	2	
+और	और	CC		adv				
+उन्हें	उन्हें	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+निराशा	निराशा	NN	0	n	f	sg	3	d
+ही	ही	RP		adv				
+मिलती	मिल	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+महत्त्व	महत्त्व	NN	0	n	m	sg	3	d
+समझने	समझ	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+हमें	हमें	PRP		unk				
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+कि	कि	CC		avy				
+हम	हम	PRP		unk				
+हमेशा	हमेशा	RB		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रहें	रह	VM	एं	v	any	pl	1	
+और	और	CC		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सफल	सफल	JJ	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+माता-पिता	माता-पिता	NN		unk				
+और	और	CC		adv				
+शिक्षकों	शिक्षक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करें	कर	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+सुबह-सुबह	सुबह-सुबह	NN		unk				
+बिस्तर	बिस्तर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+उठना	उठ	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+एक	एक	QC		adj	any	any		any
+गिलास	गिलास	NN	0	n	m	sg	3	d
+पानी	पानी	NN	0	n	m	sg	3	d
+पीना	पी	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+खुद	खुद	PRP	0	v	any	any	any	
+को	को	PSP		psp				
+तरोताजा	तरोताजा	JJ		unk				
+रखना	रख	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+दांतों	दांतों	NN		unk				
+को	को	PSP		psp				
+रोजाना	रोजाना	NN		adv				
+ब्रश	ब्रश	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+,	,	SYM		punc				
+स्नान	स्नान	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+फिर	फिर	RB	0	v	any	any	any	
+स्वस्थ	स्वस्थ	JJ		unk				
+नाश्ता	नाश्ता	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+बिना	बिन	NEG	या	v	m	sg	any	
+भोजन	भोजन	NN	0	n	m	sg	3	d
+ग्रहण	ग्रहण	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+हमें	हमें	PRP		unk				
+कभी	कभी	PRP		adv				
+भी	भी	RP		adv				
+न	न	NEG		adv				
+तो	तो	RP		avy				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+जाना	जान	VM	या	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+न	न	NEG		adv				
+ही	ही	RP		adv				
+किसी	किसी	PRP		unk				
+अन्य	अन्य	JJ		adj	any	any		any
+काम	काम	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+प्रत्येक	प्रत्येक	QF		adj	any	any		any
+कार्य	कार्य	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+साफ	साफ	JJ	0	n	m	sg	3	d
+और	और	CC		adv				
+स्वच्छ	स्वच्छ	JJ	0	n	m	sg	3	d
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+माता-पिता	माता-पिता	NN		unk				
+को	को	PSP		psp				
+कभी	कभी	PRP		adv				
+भी	भी	RP		adv				
+अस्वीकार	अस्वीकार	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+,	,	SYM		punc				
+कभी	कभी	PRP		adv				
+भी	भी	RP		adv				
+उनका	उनका	PRP		unk				
+अपमान	अपमान	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+या	या	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+ना-खुश	ना-खुश	NN		unk				
+नहीं	नहीं	NEG		adv				
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+हमेशा	हमेशा	RB		adv				
+उनके	उनके	PRP		unk				
+आदेश	आदेश	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+अपना	अपना	PRP	0	n	m	sg	3	d
+सभी	सभी	PRP	0	n	m	sg	3	d
+काम	काम	NN	0	n	m	sg	3	d
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+सभी	सभी	QF	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+अच्छा	अच्छा	JJ		adj	m	sg		d
+व्यवहार	व्यवहार	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+और	और	CC		adv				
+सही	सही	JJ		adv				
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+सब	सब	QF		adj	any	any		any
+कुछ	कुछ	QF		adj	any	any		d
+सीखना	सीख	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+बनाए	बना	VM	एं	v	any	sg	2	
+रखने	रख	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+हमें	हमें	PRP		unk				
+हर	हर	QF		adj	any	any		any
+सम्भव	संभव	JJ	0	n	m	sg		d
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+क्योंकि	क्योंकि	CC		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+सफल	सफल	JJ	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पहली	पहली	QO		adj	f	any		any
+सीड़ी	सीड़ी	NN		punc				
+मानी	मान	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हम	हम	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अपनाने	अपना	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+निम्नलिखित	निम्नलिखित	JJ		adj	any	any		any
+तरीकों	तरीका	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+-	-	SYM		punc				
+एक	एक	QC		adj	any	any		any
+संतुलित	संतुलित	JJ		adj	any	any		any
+और	और	CC		adv				
+नियमित	नियमित	JJ	0	n	m	sg	3	d
+दिनचर्या	दिनचर्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+हरसंभव	हरसंभव	JJ		unk				
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+व्यर्थ	व्यर्थ	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+दूर	दूर	NST		adv				
+रहना	रह	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बुरी	बुरी	JJ	0	n	f	sg	3	d
+आदतों	आदत	NN	0	n	f	pl	3	o
+और	और	CC		adv				
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+दूरी	दूरी	NN	0	n	f	sg	3	d
+बनाना	बना	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अपने	अपना	PRP	0	n	m	pl	3	d
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+प्रति	प्रति	PSP		adv				
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+लगन	लगन	NN	0	n	f	sg	3	d
+रखना	रख	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सूर्य	सूर्य	NN	0	n	m	sg	3	d
+हर	हर	QF		adj	any	any		any
+दिन	दिन	NN	0	n	m	sg	3	d
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+उदय	उदय	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+अस्त	अस्त	JJ	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+चांद	चांद	NN		unk				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+उदय	उदय	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+सुबह	सुबह	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+शाम	शाम	NN	0	n	f	sg	3	d
+बिना	बिन	NEG	या	v	m	sg	any	
+देर	देर	NN		adv				
+किए	कर	VM	या	v	m	pl	any	
+उदय	उदय	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+अस्त	अस्त	JJ	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+नदी	नदी	NN	0	n	f	sg	3	d
+हमेशा	हमेशा	RB		adv				
+बहती	बह	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+माता-पिता	माता-पिता	NN		unk				
+हमेशा	हमेशा	RB		adv				
+प्यार	प्यार	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+शिक्षक	शिक्षक	NN	0	n	m	sg	3	d
+हमेशा	हमेशा	RB		adv				
+हमें	हमें	PRP		unk				
+सिखाते	सिखा	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+और	और	CC		adv				
+बहुत	बहुत	QF		adj	any	any		any
+कुछ	कुछ	QF		adj	any	any		d
+.	.	SYM		punc				
+</s>
+<s>
+तो	तो	CC		avy				
+क्यों	क्यों	WQ		adv				
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पीछे	पीछा	NST	0	n	m	pl	3	d
+छोड़ना	छोड़ना	VM		v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+,	,	SYM		punc				
+हमें	हमें	PRP		unk				
+समस्याओं	समस्या	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+पीड़ित	पीड़ित	JJ		unk				
+हुए	हो	VM	या	v	m	pl	any	
+बिना	बिन	NEG	या	v	m	sg	any	
+आगे	आगा	NST	0	n	m	pl	3	d
+बढ़ने	बढ़ने	VM		v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आवश्यक	आवश्यक	JJ		adj	any	any		any
+सभी	सभी	QF	0	n	m	sg	3	d
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+प्रकृति	प्रकृति	NN	0	n	f	sg	3	d
+कभी	कभी	PRP		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+उलंघन	उलंघन	NN		unk				
+नहीं	नहीं	NEG		adv				
+करती	कर	VM	ता	v	f	sg	any	
+और	और	CC		adv				
+हम	हम	PRP		unk				
+भी	भी	RP		adv				
+तो	तो	RP		avy				
+प्रकृति	प्रकृति	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ही	ही	RP		adv				
+अभिन्न	अभिन्न	JJ		adj	any	any		any
+अंग	अंग	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+हमें	हमें	PRP		unk				
+भी	भी	RP		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सदैव	सदैव	RB		adv				
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+माता-पिता	माता-पिता	NN		unk				
+,	,	SYM		punc				
+शिक्षकों	शिक्षक	NN	0	n	m	pl	3	o
+और	और	CC		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+बुजुर्गों	बुजुर्ग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+आज्ञा	आज्ञा	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+उनके	उनके	PRP		unk				
+अनुभवों	अनुभव	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+जानने	जान	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+उनकी	उनकी	PRP		unk				
+जीत	जीत	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+असफलताओं	असफलता	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+सीखने	सीख	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उन्हें	उन्हें	PRP		unk				
+सुनना	सुन	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+भी	भी	RP		adv				
+हम	हम	PRP		unk				
+किसी	किसी	PRP		unk				
+चीज	चीज	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+गहराई	गहराई	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+देखना	देख	VM	ना	v	m	sg	any	
+शुरू	शुरू	NN		avy				
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+यह	यह	PRP	0	pn	any	sg	3	d
+हमें	हमें	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+एक	एक	QC		adj	any	any		any
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+सबक	सबक	NN	0	n	m	sg	3	d
+देती	दे	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्रकृति	प्रकृति	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+हम	हम	PRP		unk				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सही	सही	JJ		adv				
+से	से	PSP	0	v	any	any	any	
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+सीख	सीख	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मौसम	मौसम	NN	0	n	m	sg	3	d
+सही	सही	JJ		adv				
+कर्म	कर्म	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आते	आ	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+और	और	CC		adv				
+चलते	चल	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+बारिश	बारिश	NN	0	n	f	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+सब	सब	QF		adj	any	any		any
+कुछ	कुछ	QF		adj	any	any		d
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+ताकि	ताकि	CC		avy				
+हमारे	हमारे	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+संतुलित	संतुलित	JJ		adj	any	any		any
+बनाया	बना	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सके	सक	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसलिए	इसलिये	CC		avy				
+,	,	SYM		punc				
+हमें	हमें	PRP		unk				
+भी	भी	RP		adv				
+इस	इस	DEM		pn	any	sg	3	o
+धरती	धरती	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+जीवन	जीवन	XC	0	n	m	sg	3	d
+चक्र	चक्र	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बनाए	बना	VM	एं	v	any	sg	2	
+रखने	रख	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रहने	रह	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हमारे	हमारे	PRP		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+माता-पिता	माता-पिता	NN		unk				
+,	,	SYM		punc				
+शिक्षक	शिक्षक	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+परिवार	परिवार	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+वातावरण	वातावरण	NN	0	n	m	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रति	प्रति	PSP		adv				
+हमारी	हमारी	PRP		unk				
+बहुत	बहुत	INTF		adj	any	any		any
+सारी	सारी	QF	0	n	f	sg	3	d
+जिम्मेदारियां	जिम्मेदारियां	NN		unk				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उन	उन	DEM		unk				
+जिम्मेदारियों	जिम्मेदारी	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+समझते	समझ	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+कर्तव्य	कर्तव्य	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+इंसान	इंसान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+,	,	SYM		punc				
+हमारे	हमारे	PRP		unk				
+पास	पास	NST		adv				
+सोचने	सोच	VM	ना	v	m	pl	any	
+,	,	SYM		punc				
+सही	सही	JJ		adv				
+या	या	CC		avy				
+गलत	गलत	JJ		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+निर्णय	निर्णय	NN	0	n	m	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+इसे	इसे	PRP		pn	any	sg	3	o
+कार्य	कार्य	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बदलने	बदल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+योजनाओं	योजना	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+लागू	लागू	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बहुत	बहुत	QF		adj	any	any		any
+दिमाग	दिमाग	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसलिए	इसलिये	CC		avy				
+,	,	SYM		punc				
+हम	हम	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+महत्व	महत्व	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जानने	जान	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अत्यधिक	अत्यधिक	INTF		adj	any	any		any
+जिम्मेदार	जिम्मेदार	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अतः	अतः	CC		avy				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सफल	सफल	JJ	0	n	m	sg	3	d
+बनाने	बना	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करना	कर	VM	ना	v	m	sg	any	
+अति	अति	INTF		adv				
+आवश्यक	आवश्यक	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हमें	हमें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हर	हर	QF		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+क्षण	क्षण	NN	0	n	m	sg	3	d
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+बचपन	बचपन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अभ्यास	अभ्यास	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+अच्छा	अच्छा	JJ		adj	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+स्व-अनुशासन	स्व-अनुशासन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+अलग-अलग	अलग-अलग	JJ		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अलग-अलग	अलग-अलग	JJ		unk				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जैसे	जैसे	CC		adv				
+कि	कि	CC		avy				
+छात्रों	छात्र	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+,	,	SYM		punc				
+इसका	इसका	PRP		pn	m	sg	3	d
+मतलब	मतलब	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+को	को	PSP		psp				
+अध्ययन	अध्ययन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+केंद्रित	केंद्रित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+प्रेरित	प्रेरित	JJ	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+और	और	CC		adv				
+सही	सही	JJ		adv				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+,	,	SYM		punc				
+कामकाजी	कामकाजी	NN		adj	f	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+,	,	SYM		punc				
+इसका	इसका	PRP		pn	m	sg	3	d
+मतलब	मतलब	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+सुबह	सुबह	NN	0	n	f	sg	3	d
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+बिस्तर	बिस्तर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+उठना	उठ	VM	ना	v	m	sg	any	
+,	,	SYM		punc				
+व्यायाम	व्यायाम	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+,	,	SYM		punc				
+समय	समय	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+जाना	जान	VM	या	v	m	sg	any	
+और	और	CC		adv				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+ठीक	ठीक	JJ		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+करना	कर	VM	ना	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पेशेवर	पेशेवर	JJ		unk				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+,	,	SYM		punc				
+एक	एक	QC		adj	any	any		any
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+वह	वह	PRP	0	pn	any	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जिसे	जो	PRP	को	pn	any	sg	3	o
+सबसे	सबसे	INTF		adj	any	any		any
+पहले	पहले	NST		adv				
+अच्छे	अच्छे	JJ		adj	any	any		any
+अवसर	अवसर	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+क्योंकि	क्योंकि	CC		adv				
+यह	यह	PRP	0	pn	any	sg	3	d
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+अनुशासनहीन	अनुशासनहीन	JJ		unk				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तुलना	तुल	NN	ना	v	m	sg	any	
+में	में	PSP		psp				
+अधिक	अधिक	QF		adv				
+जिम्मेदार	जिम्मेदार	JJ		adj	any	any		any
+और	और	CC		adv				
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+अंजाम	अंजाम	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+किसी	किसी	PRP		unk				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+व्यक्तित्व	व्यक्तित्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+अपवाद	अपवाद	NN	0	n	m	sg	3	d
+आयाम	आयाम	NN	0	n	m	sg	3	d
+जोड़ने	जोड़ने	VM		v	m	pl	any	
+में	में	PSP		psp				
+मदद	मदद	NN	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+उसे	उसे	PRP		unk				
+एक	एक	QC		adj	any	any		any
+अद्वितीय	अद्वितीय	JJ		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उजागर	उजागर	JJ		adj	any	any		any
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+भी	भी	RP		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+दिमाग	दिमाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सकारात्मक	सकारात्मक	JJ		adj	any	any		any
+प्रभाव	प्रभाव	NN	0	n	m	sg	3	d
+छोड़ता	छोड़ता	NNP		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अपनाने	अपना	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+कई	कई	QF		adj	any	any		d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लाभ	लाभ	NN	0	n	m	sg	3	d
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+रहने	रह	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हर	हर	QF		adj	any	any		any
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मान-सम्मान	मान-सम्मान	NN		unk				
+और	और	CC		adv				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सेना	सेना	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+रक्षा	रक्षा	NN	0	n	f	sg	3	d
+तथा	तथा	CC		adv				
+अनुसंधान	अनुसंधान	NN	0	n	m	sg	3	d
+संगठनों	संगठन	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+तो	तो	RP		avy				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+तथा	तथा	CC		adv				
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सर्वोपरिमाना	सर्वोपरिमाना	VM		v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+इन	इन	DEM		pn	any	pl	3	o
+क्षेत्रों	क्षेत्र	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+सेकेंड	सेकेंड	NN		unk				
+या	या	CC		avy				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+भर	भर	RP	0	v	any	any	any	
+की	का	PSP	का	psp	f	sg		d
+देरी	देरी	NN	0	n	f	sg	3	d
+या	या	CC		avy				
+फिर	फिर	RB	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+छोटी	छोटी	JJ		adj	f	any		any
+सी	सी	RP	0	v	any	any	any	
+चूक	चूक	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+काफी	काफी	QF	0	n	f	sg	3	d
+बड़े	बड़े	NNP		punc				
+नकरात्मक	नकरात्मक	JJ		unk				
+प्रभाव	प्रभाव	NN	0	n	m	sg	3	d
+देखने	देख	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+मिल	मिल	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+कारण	कारण	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+इन	इन	DEM		pn	any	pl	3	o
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+क्षेत्रों	क्षेत्र	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+इतना	इतना	QF		adj	m	sg		d
+महत्व	महत्व	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+अधिकतम	अधिकतम	JJ		adj	any	any		any
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+इसका	इसका	PRP		pn	m	sg	3	d
+पूर्ण	पूर्ण	JJ		psp				
+रुप	रुप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पालन	पालन	NN		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+विद्यार्थियों	विद्यार्थी	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिये	ले	PSP	या	v	m	pl	any	
+तो	तो	CC		avy				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+सफलता	सफलता	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+अंग	अंग	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+यदि	यदि	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+छात्र	छात्र	NN	0	n	m	sg	3	d
+अनुशासित	अनुशासित	JJ		adj	any	any		any
+दिनचर्या	दिनचर्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+अपना	अपना	PRP	0	n	m	sg	3	d
+अध्ययन	अध्ययन	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+उसे	उसे	PRP		unk				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+अवश्य	अवश्य	RB		adv				
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+कारण	कारण	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+छात्र	छात्र	NN	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आधार	आधार	NN	0	n	m	sg	3	d
+माना	मान	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ना	ना	NEG		avy				
+सिर्फ	सिर्फ	RB		adj	any	any		any
+विद्यार्थी	विद्यार्थी	JJ	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बल्कि	बल्कि	CC		avy				
+कैरियर	कैरियर	NN		unk				
+और	और	CC		adv				
+घरेलू	घरेलू	XC		adj	any	any		any
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+काफी	काफी	QF	0	n	f	sg	3	d
+महत्व	महत्व	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+जो	जो	PRP		avy				
+लोग	लोग	NN	0	n	m	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अपना	अपना	PRP	0	n	m	sg	3	d
+लेते	ले	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+वह	वह	PRP	0	pn	any	sg	3	d
+कई	कई	QF		adj	any	any		d
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+परेशानियों	परेशानी	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बच	बच	VM	0	v	any	any	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+जो	जो	DEM		avy				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+जीवन	जीवन	NN	0	n	m	sg	3	d
+जीते	जीत	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+उन्हें	उन्हें	PRP		unk				
+अनुशासनहीन	अनुशासनहीन	JJ		unk				
+व्यक्तियों	व्यक्ति	NN	0	n	m	pl	3	o
+कि	कि	CC		avy				
+अपेक्षा	अपेक्षा	NN	0	n	f	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कई	कई	QF		adj	any	any		d
+तरह	तरह	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+लाभ	लाभ	NN	0	n	m	sg	3	d
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+ओर	ओर	NST		adv				
+जहां	जहाँ	PRP		adv				
+छात्रों	छात्र	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिये	ले	PSP	या	v	m	pl	any	
+यह	यह	PRP	0	pn	any	sg	3	d
+उनके	उनके	PRP		unk				
+भविष्य	भविष्य	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सुनहरा	सुनहरा	JJ		unk				
+बनाने	बना	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+वही	वही	PRP	0	n	f	sg	3	d
+दूसरी	दूसरी	QO		unk				
+ओर	ओर	NST		adv				
+नौकरी-पेशा	नौकरी-पेशा	NN		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिये	ले	PSP	या	v	m	pl	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+तरक्की	तरक्की	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मार्ग	मार्ग	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+खोलता	खोल	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+संक्षेप	संक्षेप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+,	,	SYM		punc				
+हम	हम	PRP		unk				
+कह	कह	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+वह	वह	PRP	0	pn	any	sg	3	d
+सीढ़ी	सीढ़ी	NNP		n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+जिसके	जो	PRP	का	pn	m	pl	3	d
+माध्यम	माध्यम	NN		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ऊंचाई	ऊंचाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+चढ़	चलवा	NN	ना	v	m	sg	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	PRP	0	pn	any	sg	3	d
+उसे	उसे	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+लक्ष्य	लक्ष्य	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+केंद्रित	केंद्रित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+मदद	मदद	NN	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+उसे	उसे	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+लक्ष्य	लक्ष्य	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भटकने	भटक	VM	ना	v	m	pl	any	
+नहीं	नहीं	NEG		adv				
+देता	दे	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+मन	मन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उन	उन	DEM		unk				
+सभी	सभी	QF	0	n	m	sg	3	d
+सकारात्मक	सकारात्मक	JJ		adj	any	any		any
+नियमों	नियम	NN	0	n	m	pl	3	o
+और	और	CC		adv				
+विनियमों	विनियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+प्रशिक्षण	प्रशिक्षण	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+पूर्णता	पूर्णता	NN	0	n	f	sg	3	d
+लाता	ला	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जो	जो	PRP		avy				
+उसे	उसे	PRP		unk				
+समाज	समाज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+सम्मानित	सम्मानित	JJ	0	n	m	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+स्थापित	स्थापित	JJ	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+कारण	कारण	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+आज	आज	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+आधुनिक	आधुनिक	JJ		adj	any	any		any
+युग	युग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+इतना	इतना	QF		adj	m	sg		d
+महत्व	महत्व	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+माता-पिता	माता-पिता	NN		unk				
+एक	एक	QC		adj	any	any		any
+बच्चे	बच्चा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+विकसित	विकसित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+भूमिका	भूमिका	NN	0	n	f	sg	3	d
+निभाते	निभा	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+क्योंकि	क्योंकि	CC		adv				
+उन्हें	उन्हें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+बच्चे	बच्चा	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+पहला	पहला	QO		adj	m	sg		d
+शिक्षक	शिक्षक	NN	0	n	m	sg	3	d
+माना	मान	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+छात्र	छात्र	NN	0	n	m	sg	3	d
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+क्योंकि	क्योंकि	CC		adv				
+यह	यह	DEM	0	pn	any	sg	3	d
+समाज	समाज	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बुराइयों	बुराई	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+मुक्त	मुक्त	JJ		adv				
+हुए	हो	VM	या	v	m	pl	any	
+बिना	बिन	NEG	या	v	m	sg	any	
+बच्चे	बच्चा	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+लक्ष्य	लक्ष्य	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+जाने	जान	VM	एं	v	any	sg	2	
+में	में	PSP		psp				
+मदद	मदद	NN	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कहा	कह	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+छोटा	छोटा	JJ		adj	m	sg		d
+बच्चा	बच्चा	NN	0	n	m	sg	3	d
+कच्ची	कच्ची	JJ	0	n	f	sg	3	d
+मिट्टी	मिट्टी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तरह	तरह	NN		adv				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+उसे	उसे	PRP		unk				
+जैसा	जैसा	PSP		adj	m	sg		d
+आकार	आकार	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+वह	वह	PRP	0	pn	any	sg	3	d
+वैसा	वैसा	PRP		adj	m	sg		d
+ही	ही	RP		adv				
+बन	बन	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अतः	अतः	CC		avy				
+आवश्यक	आवश्यक	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+बचपन	बचपन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+अनुशासन	अनुशासन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+महत्त्व	महत्त्व	NN	0	n	m	sg	3	d
+बताया	बता	VM	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+और	और	CC		adv				
+उसका	उसका	PRP	0	v	any	any	any	
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+प्रेरित	प्रेरित	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
